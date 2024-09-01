@@ -49,3 +49,6 @@ package.json
 /man/
 /share/
 /src/
+
+# Virtual environment
+oddo_venv/
